@@ -28,5 +28,6 @@ malware to lock the C: folder
 Provide examples on how to use your project. You can include code snippets:
 ```python
 python3 mal.py
+```
 
 MODIFYING THE CONTENT FOR CRIME OR OTHER NEGATIVE THINGS IS STRICTLY PROHIBITED, FOR EDUCATION ONLY! CLONE = AGREE WITH THE ABOVE CONDITIONS!
