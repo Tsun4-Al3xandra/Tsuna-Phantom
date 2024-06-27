@@ -1,4 +1,4 @@
-# Tsuna-Phantom
+# Tsuna-Phantom 0.1 (BETA)
 ![logo](https://github.com/Tsun4-Al3xandra/Tsuna-Phantom/assets/160155076/87827cb0-8e82-4a22-8782-14eef08ba0b9)
 
 ## Description
