@@ -2,12 +2,13 @@
 ![logo](https://github.com/Tsun4-Al3xandra/Tsuna-Phantom/assets/160155076/87827cb0-8e82-4a22-8782-14eef08ba0b9)
 
 ## Description
-malware to lock the C: folder
+THIS TOOL IS A SIMPLE MALWARE (DEVELOPMENT PROCESS) THAT AIMS TO EDUCATE, THIS MALWARE ONLY LOCKS THE C: FOLDER.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Lock all files in the c folder (Downloads, Documents, Videos, etc.)
+- You can change the destination of the folder you want to lock (because it's for education!)
+- 100% Offline
+- After 5 attempts to enter the wrong password, the folder will be automatically deleted by the system (remember for education only!).
 
 ## Installation
 1. Clone the repository:
@@ -25,7 +26,6 @@ malware to lock the C: folder
     ```
 
 ## Usage
-Provide examples on how to use your project. You can include code snippets:
 ```python
 python3 mal.py
 ```
