@@ -32,9 +32,9 @@ THIS TOOL IS A SIMPLE MALWARE (DEVELOPMENT PROCESS) THAT AIMS TO EDUCATE, THIS M
     pip3 install shutill
     pip3 install subprocess
     ```
-4. Change the repository folder:
+4. Change the repository folder to Desktop:
     ```bash
-    change repository folder into Desktop!
+    move C:/Users/User/Tsuna-Phantom C:/Users/User/Desktop
     ```
 
 ## Usage
