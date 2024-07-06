@@ -1,5 +1,5 @@
 # Tsuna-Phantom 1.0
-![logo](https://github.com/Tsun4-Al3xandra/Tsuna-Phantom/assets/160155076/87827cb0-8e82-4a22-8782-14eef08ba0b9)
+![logo](https://github.com/Tsun4-Al3xandra/Tsuna-Phantom/assets/160155076/b93ff9e7-8bb2-4b90-be31-30d9751bef7d)
 
 ## Description
 THIS TOOL IS A SIMPLE MALWARE (DEVELOPMENT PROCESS) THAT AIMS TO EDUCATE, THIS MALWARE ONLY LOCKS THE C: FOLDER.
