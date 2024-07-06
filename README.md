@@ -1,4 +1,4 @@
-# Tsuna-Phantom 0.1 (BETA)
+# Tsuna-Phantom 1.0
 ![logo](https://github.com/Tsun4-Al3xandra/Tsuna-Phantom/assets/160155076/87827cb0-8e82-4a22-8782-14eef08ba0b9)
 
 ## Description
@@ -8,7 +8,12 @@ THIS TOOL IS A SIMPLE MALWARE (DEVELOPMENT PROCESS) THAT AIMS TO EDUCATE, THIS M
 - Lock all files in the c folder (Downloads, Documents, Videos, etc.)
 - You can change the destination of the folder you want to lock (because it's for education!)
 - 100% Offline
-- After 5 attempts to enter the wrong password, the folder will be automatically deleted by the system (remember for education only!).
+- After 3 attempts to enter the wrong password, the folder will be automatically deleted by the system (remember for education only!).
+
+## New Update
+- Modify GUI.
+- Making it simpler and easier.
+- Im sorry this still has its drawbacks, which is that it takes approximately 3-6 minutes until all folders are completely locked.
 
 ## Installation
 1. Clone the repository:
@@ -23,11 +28,19 @@ THIS TOOL IS A SIMPLE MALWARE (DEVELOPMENT PROCESS) THAT AIMS TO EDUCATE, THIS M
     ```bash
     pip3 install os
     pip3 install tkinter
+    pip3 install pillow
+    pip3 install shutill
+    pip3 install subprocess
+    ```
+4. Change the repository folder:
+    ```bash
+    change repository folder into Desktop!
     ```
 
 ## Usage
 ```python
-python3 mal.py
+python3 maltes.py
 ```
 
 MODIFYING THE CONTENT FOR CRIME OR OTHER NEGATIVE THINGS IS STRICTLY PROHIBITED, FOR EDUCATION ONLY! CLONE = AGREE WITH THE ABOVE CONDITIONS!
+IF GOT ERROR/PROBLEM WITH LOCK FOLDER CONTACT ME AT ``` tsunaalexandra@gmail.com ```
